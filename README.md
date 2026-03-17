@@ -58,6 +58,20 @@ These changes are reflected on the card in real-time.
 
 -> However, the core subscription and data-fetching logic would remain unchanged, as it is independent of the UI framework.
 
+🛠 Installation & Setup
+
+To build and run this project, please follow the steps below:
+
+1. Configure the Niagara installation path in the `gradle.properties` file.
+2. Ensure Gradle is properly set up on your system.
+3. Build the project using Gradle.
+
+> Note: This project was built using Niagara version 4.15.2.
+
+🔧 Quick Start (Plug and Play)
+
+If you prefer not to build the project, you can use the provided **unsigned JAR** directly.
+
 <img width="1858" height="939" alt="image" src="https://github.com/user-attachments/assets/46887625-3133-4cb6-a86c-bd554a8ae551" />
 
 <img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/c382085f-794f-4155-81cd-128901248b97" />
