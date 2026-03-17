@@ -59,8 +59,6 @@ These changes are reflected on the card in real-time.
 -> However, the core subscription and data-fetching logic would remain unchanged, as it is independent of the UI framework.
 
 <img width="1858" height="939" alt="image" src="https://github.com/user-attachments/assets/46887625-3133-4cb6-a86c-bd554a8ae551" />
-<img width="1858" height="939" alt="image" src="https://github.com/user-attachments/assets/46887625-3133-4cb6-a86c-bd554a8ae551" />
 
-<img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/c382085f-794f-4155-81cd-128901248b97" />
 <img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/c382085f-794f-4155-81cd-128901248b97" />
 
