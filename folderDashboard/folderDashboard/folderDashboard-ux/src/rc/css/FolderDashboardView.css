@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  gap: 10px;
+  background: #212121;
+  height: 100%;
+  overflow: auto;
+  color: #E0E0E0;
+  font-family: 'Inter', sans-serif;
+}
+
+.card {
+  margin: 6px;
+  border-radius: 10px;
+  background: rgba(249, 249, 249, 0.1);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+}
+.card-title {
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  border-bottom: 5px solid;
+  background: rgba(249, 249, 249, 0.1);
+  font-size: 16px;
+  padding: 5px;
+  font-weight: 500;
+  text-align: center;
+}
+.card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 6px;
+}
+.card-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: rgba(248, 248, 248, 0.1);
+  border: 2px solid rgba(249, 249, 249, 0.1);
+  border-radius: 10px;
+  margin: 2px;
+}
+
+.card-value{
+  padding: 5px;
+  border-radius: 8px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px rgba(255,255,255,0.1);
+  cursor: pointer;
+  border: 2px solid white;
+}
