@@ -1,0 +1,8 @@
+<types>
+  <!--com.demo.folderDashboard.ux.views-->
+  <type class="com.demo.folderDashboard.ux.views.BFolderDashboard" name="FolderDashboard">
+    <agent>
+      <on type="baja:Folder"/>
+    </agent>
+  </type>
+</types>
