@@ -68,6 +68,9 @@ To build and run this project, please follow the steps below:
 
 > Note: This project was built using Niagara version 4.15.2.
 
+🔧 Quick Start (Plug and Play)
+
+If you prefer not to build the project, you can use the provided **unsigned JAR** directly.
 
 <img width="1858" height="939" alt="image" src="https://github.com/user-attachments/assets/46887625-3133-4cb6-a86c-bd554a8ae551" />
 
